@@ -10,8 +10,10 @@
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://github.com/gabrielceravoloo/gabrielceravoloo/assets/173575898/1fcace37-c828-474d-a59a-a2a42b026a30" alt="Typing SVG" />
+  <img src="https://github.com/gabrielceravoloo/gabrielceravoloo/assets/173575898/4d1be511-42ca-4e2e-bce3-5ca0ff6758c5" alt="Typing SVG" />
  </a>
+
+
 </div>
 
 <hr>
