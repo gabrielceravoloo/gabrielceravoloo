@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Welcome+To+My+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Bem-Vindo+ao+Meu+Perfil" alt="Typing SVG" />
  </a>
 </div>
 
@@ -36,10 +36,10 @@
 </div>
 
 <div align="center">
- <h3> My Portfolio - https://gabrielceravoloo.github.io </h3>
+ <h3> Meu Portifolio - https://gabrielceravoloo.github.io </h3>
 </div>
 
 <br>
 
 > [!IMPORTANT]
-> When you feel the urge to make excuses for something, challenge yourself: 'What can I do to resolve this situation?'
+> Quando sentir vontade de dar desculpas para alguma coisa, desafie-se: 'O que posso fazer para resolver esta situação?'
