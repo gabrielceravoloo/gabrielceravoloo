@@ -11,7 +11,7 @@
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://github.com/user-attachments/assets/f178d8e2-6cb0-4292-ba36-883341cf95b4" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/e7ed9ad8-650f-4a8c-be16-b699b076301d" alt="Typing SVG" />
  </a>
 
 </div>
@@ -20,7 +20,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,linux,kali,aws,gcp,azure,py,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,cpp,cs,py,java,nodejs" />
   </a>
  </p>
 
@@ -41,5 +41,5 @@
 
 <br>
 
-> [!IMPORTANT]
+> [!NOTE]
 > Quando sentir vontade de dar desculpas para alguma coisa, desafie-se: 'O que posso fazer para resolver esta situação?'
