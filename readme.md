@@ -1,12 +1,11 @@
 <div align="center">
- <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&letterSpacing=em-tight&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=846&height=80&lines=%40terminal%3A~%24+Bem-Vindo+ao+meu+Perfil" alt="Typing SVG" />
+ <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&letterSpacing=em-tight&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=846&height=80&lines=%40terminal%3A~%24+Bem-Vindo+ao+meu+Perfil" alt="Bem-Vindo ao Meu Perfil" />
 </div>
 
 <br>
 
 <div align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://github.com/user-attachments/assets/f35fb416-33b8-4c77-b881-c808776b2f15" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/f35fb416-33b8-4c77-b881-c808776b2f15" alt="GIF Profile" />
  </a>
 
 </div>
@@ -14,9 +13,7 @@
 <hr>
 
  <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,cpp,cs,py,java,nodejs" />
-  </a>
  </p>
 
 <hr>
