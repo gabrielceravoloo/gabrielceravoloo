@@ -38,4 +38,4 @@
 <br>
 
 > [!NOTE]
-> Quando sentir vontade de dar desculpas para alguma coisa, desafie-se: 'O que posso fazer para resolver esta situação?'
+> Ainda não cheguei lá, mas gosto de quem estou me tornando durante o caminho...
