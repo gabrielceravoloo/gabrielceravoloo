@@ -1,17 +1,14 @@
-<br>
-
 <div align="center">
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Bem-Vindo+ao+Meu+Perfil" alt="Typing SVG" />
  </a>
-
 </div>
 
 <br>
 
 <div align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://github.com/user-attachments/assets/e7ed9ad8-650f-4a8c-be16-b699b076301d" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/f35fb416-33b8-4c77-b881-c808776b2f15" alt="Typing SVG" />
  </a>
 
 </div>
