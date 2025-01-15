@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f65bc05c-446e-4a3b-8912-fa7f1e77bbbe" alt="GIF Profile" />
+  <img src="https://github.com/user-attachments/assets/bf6c55c9-0c9d-4421-9379-8c73aa556dfd" alt="GIF Profile" />
 </div>
 
 <br>
