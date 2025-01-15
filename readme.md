@@ -1,5 +1,3 @@
-<hr>
-
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4500&pause=2000&color=F7F7F7&center=true&vCenter=true&width=435&height=60&lines=Bem-Vindo+ao+Meu+Perfil" alt="Bem-Vindo" />
 </div>
@@ -8,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/f0b2bd00-c13c-48bd-a666-1665af0a7f87" alt="GIF Profile" />
 </div>
 
-</br>
+<hr>
 
 <div align="center">
  <img align="right" alt="coding-gif" width="300" src="https://github.com/user-attachments/assets/ce182ff3-6796-4eba-bec7-53c81fcac143">
