@@ -27,7 +27,7 @@
 
 <hr>
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,linux,kali,bash,java,docker,c,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,bash,aws,azure,c,cpp,py" />
  </p>
 <hr>
 
@@ -38,4 +38,5 @@
     <img alt="Animação cobrinha do GITHUB" src="https://raw.githubusercontent.com/gabrielceravoloo/gabrielceravoloo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
